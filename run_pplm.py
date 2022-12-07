@@ -65,6 +65,7 @@ BAG_OF_WORDS_ARCHIVE_MAP = {
     'science': "https://s3.amazonaws.com/models.huggingface.co/bert/pplm/bow/science.txt",
     'space': "https://s3.amazonaws.com/models.huggingface.co/bert/pplm/bow/space.txt",
     'technology': "https://s3.amazonaws.com/models.huggingface.co/bert/pplm/bow/technology.txt",
+    'kw_test': "https://github.com/PolinaSkr/PPLM/blob/7b5646ecbe84a927d50d69dc65524cb6cfe5e249/paper_code/wordlists/kw_test.txt"
 }
 
 DISCRIMINATOR_MODELS_PARAMS = {
